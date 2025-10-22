@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulswain58708" alt="rahulswain58708" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Math**
+- 🌱 I’m currently learning **FullStack Webdevelopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulswain58708](https://github.com/rahulswain58708)
 
