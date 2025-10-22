@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Swain</h1>
-<h3 align="center">A passionate AI engineer from India</h3>
+<h3 align="center">A passionate Entrepreneur from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulswain58708" alt="rahulswain58708" /></a> </p>
 
